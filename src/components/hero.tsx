@@ -93,7 +93,7 @@ function HeroSection() {
       
 
         </div>
-        Discount Badge (if needed) 
+        
          <div className="absolute top-10 right-5 bg-gradient-to-r from-blue-400 to-blue-600 text-white text-xs font-medium py-2 px-4 rounded-full">
        50% off
         </div>
@@ -132,6 +132,7 @@ function HeroSection() {
 }
 
 export default HeroSection;
+
 
 
  

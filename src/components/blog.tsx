@@ -10,7 +10,7 @@ const LatestBlog = () => {
       code: ["SaberAli" ,  "21 August, 2020"],
       description:
         "More off this less hello samlande lied much over tightly circa horse taped mightly",
-      image: "/Frame-3.png",
+      image: "/frame-3.png",
 
     },
     {
@@ -25,7 +25,7 @@ const LatestBlog = () => {
       code:["SaberAli" , "21 August, 2020"],
       description:
         "More off this less hello samlande lied much over tightly circa horse taped mightly",
-      image: "/frame-4.png",
+      image: "/fram-4.png",
     },
   ];
 

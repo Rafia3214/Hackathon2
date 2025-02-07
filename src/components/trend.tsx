@@ -17,7 +17,7 @@ const  Trend = () => {
     {
       name: "Cantilever chair",
       price: "$26.00",
-      Image: "/trend3.png",
+      Image: "/trend2.png",
     },
     {
       name: "Cantilever chair",
